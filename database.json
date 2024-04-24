@@ -1,0 +1,210 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Emily",
+      "username": "emaister"
+    },
+    {
+      "id": 2,
+      "name": "Elina",
+      "username": "elluhna"
+    },
+    {
+      "id": 3,
+      "name": "Andy",
+      "username": "pwarkji"
+    },
+    {
+      "username": "spammaisubi",
+      "name": "Subi",
+      "id": 4
+    }
+  ],
+  "artists": [
+    {
+      "id": 1,
+      "image": "/images/artists/ParkJisung.jpeg",
+      "name": "Park Jisung",
+      "birthday": "2002-02-05"
+    },
+    {
+      "id": 2,
+      "image": "/images/artists/ParkJihyo.jpeg",
+      "name": "Park Jihyo",
+      "birthday": "1997-02-01"
+    },
+    {
+      "id": 3,
+      "image": "/images/artists/BI.jpeg",
+      "name": "B.I",
+      "birthday": "1996-10-22"
+    },
+    {
+      "id": 4,
+      "image": "/images/artists/MyoiMina.jpeg",
+      "name": "Myoi Mina",
+      "birthday": "1997-03-24"
+    },
+    {
+      "id": 5,
+      "image": "/images/artists/ZhongChenle.jpeg",
+      "name": "Zhong Chenle",
+      "birthday": "2001-11-22"
+    },
+    {
+      "name": "Lee Mark",
+      "image": "/images/artists/MarkLee.jpeg",
+      "id": 6,
+      "birthday": "1999-08-02"
+    },
+    {
+      "name": "Han Yujin",
+      "image": "/images/artists/HanYujin.jpeg",
+      "birthday": "2007-03-20",
+      "id": 7
+    },
+    {
+      "name": "Kang Seulgi",
+      "image": "/images/artists/KangSeulgi.jpeg",
+      "birthday": "1994-02-10",
+      "id": 8
+    }
+  ],
+  "photocards": [
+    {
+      "id": 1,
+      "name": "2023 Birthday",
+      "image": "/images/photocards/Jisung-2023Birthday.png",
+      "artistId": 1
+    },
+    {
+      "id": 2,
+      "name": "Dreamland Fanmeet",
+      "image": "/images/photocards/Jisung-Fanmeet-Dreamland.png",
+      "artistId": 1
+    },
+    {
+      "id": 3,
+      "name": "TDS2 Japan",
+      "image": "/images/photocards/Jisung-TDS2Japan.png",
+      "artistId": 1
+    },
+    {
+      "id": 4,
+      "name": "Zone",
+      "image": "/images/photocards/Jihyo-1stMini-Zone.png",
+      "artistId": 2
+    },
+    {
+      "id": 5,
+      "name": "Formula Of Love",
+      "image": "/images/photocards/Mina-3rdFull-FormulaOfLove.png",
+      "artistId": 4
+    },
+    {
+      "id": 6,
+      "name": "Sanrio x NCT",
+      "image": "/images/photocards/Chenle-Sanrio.png",
+      "artistId": 5
+    },
+    {
+      "name": "ISTJ Target pob",
+      "image": "/images/photocards/Mark-ISTJ-Target.jpg",
+      "artistId": 6,
+      "id": 7
+    },
+    {
+      "name": "Dare to Love",
+      "image": "/images/photocards/B.I-2ndFull-ToDieFor.png",
+      "artistId": 3,
+      "id": 8
+    },
+    {
+      "name": "Dicon",
+      "image": "/images/photocards/Yujin-Dicon.jpg",
+      "artistId": 7,
+      "id": 9
+    },
+    {
+      "name": "Bandina VN",
+      "image": "/images/photocards/Jisung-BandinaVN.jpg",
+      "artistId": 1,
+      "id": 10
+    },
+    {
+      "name": "ISTJ Holo",
+      "image": "/images/photocards/Jisung-ISTJHolo.jpg",
+      "artistId": 1,
+      "id": 11
+    },
+    {
+      "name": "Stamp On It",
+      "image": "/images/photocards/Seulgi-StampOnIt.jpg",
+      "artistId": 8,
+      "id": 12
+    }
+  ],
+  "userPhotocards": [
+    {
+      "photocardId": 5,
+      "userId": 2,
+      "id": 7
+    },
+    {
+      "photocardId": 7,
+      "userId": 2,
+      "id": 8
+    },
+    {
+      "photocardId": 8,
+      "userId": 1,
+      "id": 15
+    },
+    {
+      "photocardId": 6,
+      "userId": 1,
+      "id": 16
+    },
+    {
+      "photocardId": 2,
+      "userId": 1,
+      "id": 19
+    },
+    {
+      "photocardId": 3,
+      "userId": 1,
+      "id": 23
+    },
+    {
+      "photocardId": 1,
+      "userId": 1,
+      "id": 24
+    },
+    {
+      "photocardId": 9,
+      "userId": 2,
+      "id": 26
+    },
+    {
+      "photocardId": 10,
+      "userId": 1,
+      "id": 27
+    },
+    {
+      "photocardId": 11,
+      "userId": 1,
+      "id": 28
+    },
+    {
+      "photocardId": 4,
+      "userId": 1,
+      "id": 30
+    },
+    {
+      "photocardId": 12,
+      "userId": 1,
+      "id": 31
+    }
+  ]
+}
